@@ -9,6 +9,7 @@ function someOtherFunction(aFunction) {
   aFunction();
 }
 
+
 let momchi:any = {name: 'momchi'};
 let annie:any = {name: 'annie'};
 

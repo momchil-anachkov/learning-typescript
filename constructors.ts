@@ -14,6 +14,7 @@ Person.prototype.sayHi = function () {
 
 let somePerson = new Person('Momchi', 25, 'male', 'bisexual');
 
+
 // {} -> this in function -> return the object
 
 somePerson.sayHi();
